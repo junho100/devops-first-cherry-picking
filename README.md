@@ -1,0 +1,8 @@
+- express.js (hello world)
+- docker
+- kubernetes
+- eks
+- argocd
+- prometheus
+- grafana
+- terraform
