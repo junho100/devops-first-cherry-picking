@@ -6,3 +6,6 @@
 - prometheus
 - grafana
 - terraform
+- elasticsearch
+- lodash
+- kibana
